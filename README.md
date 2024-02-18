@@ -1,3 +1,3 @@
-# django-projet
+# django-project
 dp
-this project use question solving on interview
+this project help question asked in interview
